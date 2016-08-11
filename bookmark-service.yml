@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    generate-ddl:true
+			 
+message:Salut DevoxxFR from Bookmark Service!
+	
+bookmark:
+      mask:_L_ for user _U_.
