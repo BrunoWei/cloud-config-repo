@@ -1,6 +1,6 @@
 spring:
   jpa:
    generate-ddl: true 
-message: A message from Bookmark Service!	
+message: Hello world!	
 bookmark:
    mask: _L_ for user _U_.
